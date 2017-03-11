@@ -1,5 +1,5 @@
 {
-    "name": "boxuk/postcodes-io-bundle",
+    "name": "proficloud/postcodes-io-bundle",
     "type": "library",
     "description": "A Symfony2 bundle for interaction with the postcodes.io service.",
     "keywords": ["postcode", "postcodes.io", "guzzle"],
